@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "966135301510",
+    "firebase_url": "https://custom-firebase-notification.firebaseio.com",
+    "project_id": "custom-firebase-notification",
+    "storage_bucket": "custom-firebase-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966135301510:android:1e308c55f20fc49e",
+        "android_client_info": {
+          "package_name": "techonlabs.com.customfirebasenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966135301510-p9r8gq45cfcqomtjvdcrfjmkbf12br4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxjgAmpRcQx_KRnDz7nJcbigmjKhts33w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
